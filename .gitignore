@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+
+*.iml
+*.vscode
+*.idea
+tmp/*
+
+target/*
+integration/testdata/test-input_*
+
