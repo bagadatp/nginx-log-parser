@@ -9,4 +9,5 @@ tmp/*
 
 target/*
 integration/testdata/test-input_*
+integration/.log-parser*
 
